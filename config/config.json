@@ -1,0 +1,5 @@
+{
+    "dbURL": "mongodb+srv://skm:Shekhar123@cluster0.blhls.mongodb.net/task-db?retryWrites=true&w=majority",
+    "secret": "11a367b9dc4f88a84be1d02883bcdb1c52f08cfb4e62b72f32c90475383e69fb",
+    "port": 4000
+}
